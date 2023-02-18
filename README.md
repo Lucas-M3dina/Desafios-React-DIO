@@ -4,4 +4,4 @@ Bem-vindo ao meu repositório do Bootcamp de React.js! Este repositório contém
 
 ## Desafios
 
-- [Desafio 1: Componente de Contador](./desafio01-calculadora)
+- [Desafio 1: Calculadora em React.js](./desafio01-calculadora)
