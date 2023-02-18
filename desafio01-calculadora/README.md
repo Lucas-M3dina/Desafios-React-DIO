@@ -1,5 +1,5 @@
 <p align="center">
-  🖩
+  <img width='100' src='https://cdn-icons-png.flaticon.com/512/6472/6472942.png'/>
 </p>
 
 # Calculadora em React
@@ -27,4 +27,4 @@ Uma calculadora simples com as operações básicas de soma, subtração, multip
 
 ## Screenshots
 
-![Calculadora em uso](https://imgur.com/KheCw1v)
+<img src='https://i.imgur.com/KheCw1v.png'/>
